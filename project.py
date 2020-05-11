@@ -81,7 +81,14 @@ def dice_simulate():
             speak("sorry sir can you speak again ")       
 
              
+if __name__ == "__main__":
+    
+    wishMe()
+    while (1):
+        dice_simulate()
 
+    
+    
 
     
     
@@ -89,6 +96,3 @@ def dice_simulate():
     
 
 
-
-wishMe()
-dice_simulate()
