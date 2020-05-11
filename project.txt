@@ -1,0 +1,8 @@
+our project is dice rolling simulator
+here we also add the a voice assitance to roll the dice 
+this program will print a dice number and if user want to re-roll then,
+program ask user in voice can i roll it again then assitance roll the dice.
+
+name of student;
+shiv kumar (2K18CSUN01133)
+rohan katria (2K18CSUN01133)
